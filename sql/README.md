@@ -2,13 +2,10 @@
 
 Folder zawiera przykładowe elementy analizy danych sprzedażowych w SQL.
 
-Pliki:
+## Zawartość
 
-schema.sql  
-Definicja tabeli analitycznej `sales`.
+- `schema.sql` — definicja tabeli analitycznej `sales`
+- `views.sql` — widoki pomocnicze do analizy danych
+- `queries.sql` — przykładowe zapytania analityczne
 
-views.sql  
-Widoki ułatwiające analizę danych, np. sprzedaż miesięczna, podsumowanie klientów.
-
-queries.sql  
-Przykładowe zapytania analityczne wykorzystujące utworzone widoki.
+Pliki pokazują, jak można analizować dane sprzedażowe przy użyciu SQL.

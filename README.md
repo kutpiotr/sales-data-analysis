@@ -83,9 +83,7 @@ W projekcie wykorzystano:
 * SQL
 * Jupyter Notebook
 
-Planowane rozszerzenie projektu:
 
-* dashboard w Streamlit
 
 ---
 
@@ -198,7 +196,18 @@ Na podstawie przeprowadzonej analizy można zauważyć, że:
 
 ![Top Product Pairs](reports/figures/top_product_pairs.png)
 
----
+## Dashboard
+
+Projekt zawiera również interaktywny dashboard przygotowany w Streamlit.
+
+### Strona główna dashboardu
+![Dashboard Home](reports/figures/dashboard_home.png)
+
+### Analiza sprzedaży
+![Dashboard Sales](reports/figures/dashboard_sales.png)
+
+### Analiza produktów
+![Dashboard Products](reports/figures/dashboard_products.png)
 
 ## Jak uruchomić projekt
 
