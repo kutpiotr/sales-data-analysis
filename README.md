@@ -117,7 +117,7 @@ sales-data-analysis
 │   └── figures
 │
 ├── sql
-├── src
+|
 │
 ├── .gitignore
 ├── README.md
@@ -274,7 +274,6 @@ W folderze `sql` znajdują się przykładowe zapytania SQL wykorzystywane do ana
 
 Planowane dalsze rozszerzenia projektu:
 
-* dashboard w Streamlit
 * dodatkowe metryki biznesowe
 * rozszerzona analiza koszyka zakupowego
 * dodatkowe wizualizacje
