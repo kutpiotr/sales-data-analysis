@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Analiza danych sprzedażowych
 
 ## Opis projektu
 
@@ -73,15 +73,19 @@ Ze względu na rozmiar danych pliki źródłowe nie są przechowywane w repozyto
 
 ## Technologie
 
-W projekcie wykorzystano:
+### Data processing
+- Python
+- pandas
+- numpy
 
-* Python
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* SQL
-* Jupyter Notebook
+### Visualization
+- matplotlib
+- seaborn
+
+### Tools
+- Jupyter Notebook
+- SQL
+- Streamlit
 
 
 
@@ -244,12 +248,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### 6. Uruchomienie dashboardu
+
+```
+streamlit run app/streamlit_app.py
+```
+
 ### 5. Uruchom notebooki
 
 Notebooki znajdują się w folderze `notebooks`.
 
 ---
-
 ## SQL
 
 W folderze `sql` znajdują się przykładowe zapytania SQL wykorzystywane do analizy danych sprzedażowych, np.:
