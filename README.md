@@ -285,4 +285,3 @@ Planowane dalsze rozszerzenia projektu:
 **Piotr Kut**
 Student kierunku Inżynieria i Analiza Danych
 
-Projekt przygotowany jako portfolio do rekrutacji na staż związany z analizą danych.
